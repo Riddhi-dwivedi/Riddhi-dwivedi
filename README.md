@@ -16,7 +16,6 @@ I love solving real-world problems and building impactful applications.
 ## 💬 Ask Me About
 Web development, GitHub projects
 
-## 🌐 Connect with Me
-[Instagram](#) | [LinkedIn](#)
+https://www.linkedin.com/in/riddhi-dwivedi-8293b22a4/
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=HTML&label=HTML&color=blue)
+
